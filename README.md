@@ -1,6 +1,8 @@
 # Open Domain Event Extraction Using Neural Latent Variable Models (ODEE)
 This is the python3 code for the paper ["Open Domain Event Extraction Using Neural Latent Variable Models"](https://arxiv.org/abs/1906.06947) in ACL 2019.
 
+Introduction Video： https://vimeo.com/384744763
+
 ## Prepare ELMo model
 Modify the Line 24 and 25 in `cache_features.py`.
 
